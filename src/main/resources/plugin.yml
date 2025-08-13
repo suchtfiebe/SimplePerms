@@ -1,0 +1,12 @@
+name: SimplePerms
+main: de.derfirefox.simplePerms.SimplePerms
+version: 2.0
+soft-dependencies:
+  - PlaceholderAPI
+commands:
+  simpleperms:
+    description: Hauptbefehl für SimplePerms
+    usage: /<command> [args]
+  sp:
+    description: Kurzbefehl für SimplePerms
+    usage: /<command> [args]

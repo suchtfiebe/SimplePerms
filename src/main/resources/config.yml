@@ -1,0 +1,13 @@
+messages:
+  prefix: "&8&bSimplePerms&8 &r"       # Prefix vor allen Plugin-Nachrichten, & = Farbcode
+  no_permission: "&cDazu hast du keine Rechte!"
+  user_added_perm: "&aDie Berechtigung &e{perm} &awurde hinzugefügt."
+  user_removed_perm: "&aDie Berechtigung &e{perm} &awurde entfernt."
+  group_created: "&aGruppe &e{group} &awurde erstellt."
+  group_deleted: "&cGruppe &e{group} &cwurde gelöscht."
+  prefix_set: "&aPrefix der Gruppe &e{group} &awurde auf &e{prefix} &agesetzt."
+  weight_set: "&aWeight der Gruppe &e{group} &awurde auf &e{weight} &agesetzt."
+  saved_success: "&aDaten wurden erfolgreich gespeichert."
+  unknown_subcommand: "&cUnbekannter Unterbefehl."
+  usage_user: "&eBenutzung: &7/sp user <name|uuid> <addperm|removeperm|addgroup|removegroup|list> ..."
+  usage_group: "&eBenutzung: &7/sp group <create|delete|setprefix|setweight|addperm|removeperm|list> ..."
